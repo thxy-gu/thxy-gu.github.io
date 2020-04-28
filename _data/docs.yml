@@ -1,0 +1,11 @@
+- title: 入门
+  docs:
+    - home
+    - themes
+    - customization
+
+- title: 示例
+  docs:
+    - cheatsheet
+    - font-awesome
+    - bootstrap
