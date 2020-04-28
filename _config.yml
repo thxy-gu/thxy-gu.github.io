@@ -9,7 +9,7 @@ lang: zh-CN
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: https://thxy-gu.github.io/ # the base hostname & protocol for your site
 git_address: https://github.com/thxy-gu/thxy-gu.github.io/
-git_edit_address: https://github.com/thxy-gu/thxy-gu.github.io/blob/gh-pages
+git_edit_address: https://github.com/thxy-gu/thxy-gu.github.io/
 
 # theme options from https://bootswatch.com/3/
 # comment out this to use default Bootstrap
